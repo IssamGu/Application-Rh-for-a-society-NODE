@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "@angular/core": "^13.2.3",
+    "@angular/forms": "^13.2.3",
+    "@angular/material": "^13.2.3",
+    "@angular/platform-browser-dynamic": "^13.2.3",
+    "@angular/router": "^13.2.3",
+    "@fortawesome/angular-fontawesome": "^0.10.1",
+    "@fullcalendar/angular": "^5.10.2",
+    "@fullcalendar/daygrid": "^5.10.1",
+    "@fullcalendar/interaction": "^5.10.1",
+    "@material/card": "^13.0.0",
+    "@material/form-field": "^13.0.0",
+    "@ng-bootstrap/ng-bootstrap": "^12.0.0",
+    "angular-datatables": "^13.0.1",
+    "angular-material-datepicker": "^1.0.2",
+    "angular-material-inputs": "^0.1.0",
+    "angular2-uuid": "^1.1.1",
+    "file-saver": "^2.0.5",
+    "jasmine": "^4.0.2",
+    "material-steppers": "^2.0.0",
+    "moment": "^2.29.1",
+    "ngx-cookie-service": "^13.1.2",
+    "ngx-toastr": "^14.2.1",
+    "saturn-datepicker-ext": "^8.0.6"
+  },
+  "devDependencies": {
+    "@types/file-saver": "^2.0.5"
+  }
+}
